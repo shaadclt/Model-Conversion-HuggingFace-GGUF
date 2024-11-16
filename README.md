@@ -77,3 +77,6 @@ api.upload_file(
 ## Conclusion
 This notebook provides a step-by-step guide to convert a Hugging Face model to GGUF format and upload it back to the Hugging Face Hub. Modify the notebook as needed for your specific models and conversion requirements.
 
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.txt) file for more details.
+
